@@ -1,3 +1,5 @@
+# The array should be a sorted array to use Binary Search.
+
 def search(self, nums, target):
     # Set the initial values for the low and high indices
     low = 0
